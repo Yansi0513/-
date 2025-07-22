@@ -1,0 +1,6 @@
+{
+    "name": "MyTestPlugin",
+    "version": "1.0.0",
+    "description": "一个测试插件，用于学习如何安装 Git 扩展。",
+    "entry": "main.js"
+}
